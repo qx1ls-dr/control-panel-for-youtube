@@ -804,7 +804,7 @@ const locales = {
     SHORTS: 'Shorts',
     STREAMED_METADATA_INNERTEXT_RE: '(?:^|\\n)\\s*Трансляция закончилась',
     STREAMED_TITLE_ARIA_LABEL_RE: 'просмотр\\S*\\s+Трансляция закончилась',
-    TAKE_SNAPSHOT: 'Сделать снимок',
+    TAKE_SNAPSHOT: 'Сделать скриншот',
     THANKS: 'Спасибо',
     UNHIDE_CHANNEL: 'Показать канал',
   },
